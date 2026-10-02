@@ -1,0 +1,4 @@
+.venv/
+zapis.db
+.env
+__pycache__/
